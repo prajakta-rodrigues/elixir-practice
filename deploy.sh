@@ -21,5 +21,4 @@ mix release
 
 echo "Starting app..."
 
-_build/prod/rel/practice/bin/practice foreground
-
+_build/prod/rel/practice/bin/practice start

@@ -3,8 +3,8 @@ Description=Elixir Practice
 
 [Service]
 Type=simple
-User=practice
-Group=practice
+User=root
+Group=root
 Restart=on-failure
 Environment=MIX_ENV=prod "PORT=4790"
 Environment=LANG=en_US.UTF-8
