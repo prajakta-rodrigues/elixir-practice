@@ -11,13 +11,13 @@ hw03.prajaktarodrigues.website
 https://github.com/prajakta-rodrigues/elixir-practice
 
 4. How much of the functionality did you complete?
-Everything except the calculate expression part
+Everything
 
 5. Did you successfully deploy? If not, what's broken?
 Yes I deployed successfully
 
 6. How comfortable do you feel with Elixir now?
-I still don't feel very comfortable, will keep on practicing.
+I feel a bit comfortable, will keep on practicing.
 
 7. Which parts of this assignment did you have trouble with, if any?
 Writing code using Elixir
